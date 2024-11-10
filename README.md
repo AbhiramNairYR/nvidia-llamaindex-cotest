@@ -4,7 +4,7 @@ project for nvidia llamaindex cotest
 
 
 # info
-this is an ai summery bot which uses nvidia's nim microservices to turn any youtube video or audio or text into it summery and create an audio for it.
+this is an ai summery bot which uses nvidia's nim microservices to turn any youtube video, audio or text into it summery and create an audio for it.
 
 
 
